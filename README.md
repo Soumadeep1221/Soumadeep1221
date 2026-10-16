@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=Soumadeep1221&color=34d399&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Soumadeep1221?style=for-the-badge&logo=github&color=34d399&labelColor=0d1117" alt="Followers" />
 
 </div>
@@ -142,9 +143,6 @@ Spring Boot REST API for CineStage, a cinema ticket booking platform. Handles ci
 
 <img src="https://streak-stats.demolab.com/?user=Soumadeep1221&theme=nord&border=34d399&ring=34d399&fire=34d399&currStreakLabel=34d399&background=0d1117" alt="GitHub streak" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/34d399/Soumadeep1221" alt="Contribution calendar" width="100%" />
 
 </div>
 
