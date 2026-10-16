@@ -26,7 +26,7 @@ const soumadeep = {
   stack: ["Java", "Spring Boot", "Spring Security", "Hibernate", "PostgreSQL"],
   launchedProjects: ["MoneyManager-Backend", "CineStage-Backend"],
   certifications: ["Java Spring Framework, Spring Boot, Spring AI - Gen AI (Udemy, 55 hrs)"],
-  status: "Second-year CS student at MAKAUT, Kolkata, building backend projects",
+  status: "Third-year CS student at NSEC, Kolkata, building backend projects",
   openTo: ["Java Backend Internships", "Full-time Backend roles"],
 };
 ```
