@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Soumadeep1221&color=34d399&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://hits.sh/github.com/Soumadeep1221/"><img src="https://hits.sh/github.com/Soumadeep1221.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=34d399&labelColor=0d1117" alt="Profile views" /></a>
 <img src="https://img.shields.io/github/followers/Soumadeep1221?style=for-the-badge&logo=github&color=34d399&labelColor=0d1117" alt="Followers" />
 
 </div>
