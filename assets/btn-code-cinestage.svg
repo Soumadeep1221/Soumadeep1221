@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="46" viewBox="0 0 296 46" role="img" aria-label="Code: CineStage-Backend">
+<title>Code: CineStage-Backend</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}
+.sw{animation:sw 3.8s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(0)}65%,100%{transform:translateX(556px)}}
+.glow{animation:gl 2.6s ease-in-out infinite}
+@keyframes gl{0%,100%{opacity:.0}50%{opacity:.0}}
+</style>
+<defs><clipPath id="p"><rect width="296" height="46" rx="23"/></clipPath>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect class="glow" x="0" y="0" width="296" height="46" rx="23" fill="#34d399"/>
+<rect width="296" height="46" rx="23" fill="#34d399"/>
+<g clip-path="url(#p)"><g transform="skewX(-20)"><rect class="sw" x="-120" y="0" width="70" height="46" fill="url(#sg)"/></g></g>
+<g transform="translate(20 11)"><path d="M8 5 L2 12 L8 19 M16 5 L22 12 L16 19" fill="none" stroke="#0d1117" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="80.2" y="28" font-size="14" font-weight="800" fill="#0d1117" textLength="193.8" lengthAdjust="spacing">Code  CineStage-Backend</text>
+</svg>

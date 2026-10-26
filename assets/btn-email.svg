@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="46" viewBox="0 0 148 46" role="img" aria-label="Email">
+<title>Email</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}
+.sw{animation:sw 3.8s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(0)}65%,100%{transform:translateX(408px)}}
+.glow{animation:gl 2.6s ease-in-out infinite}
+@keyframes gl{0%,100%{opacity:.0}50%{opacity:.0}}
+</style>
+<defs><clipPath id="p"><rect width="148" height="46" rx="23"/></clipPath>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect class="glow" x="0" y="0" width="148" height="46" rx="23" fill="#34d399"/>
+<rect width="148" height="46" rx="23" fill="#34d399"/>
+<g clip-path="url(#p)"><g transform="skewX(-20)"><rect class="sw" x="-120" y="0" width="70" height="46" fill="url(#sg)"/></g></g>
+<g transform="translate(20 11)"><rect x="1" y="3" width="22" height="17" rx="3" fill="none" stroke="#0d1117" stroke-width="2.2"/><path d="M2 5 L12 13 L22 5" fill="none" stroke="#0d1117" stroke-width="2.2" stroke-linejoin="round"/></g>
+<text x="83.9" y="28" font-size="14" font-weight="800" fill="#0d1117" textLength="42.1" lengthAdjust="spacing">Email</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="44" viewBox="0 0 500 44" role="img" aria-label="Open to work: Java Backend Internships and Full-time roles">
+<title>Open to work: Java Backend Internships and Full-time roles</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}
+.sw{animation:sw 4.5s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(0)}70%,100%{transform:translateX(760px)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+.pulseb{animation:pb 3s ease-in-out infinite}
+@keyframes pb{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+</style>
+<defs><clipPath id="pill"><rect width="500" height="44" rx="22"/></clipPath>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="500" height="44" rx="22" fill="#0d1117"/>
+<g clip-path="url(#pill)"><g transform="skewX(-20)"><rect class="sw" x="-140" y="0" width="120" height="44" fill="url(#sg)"/></g></g>
+<rect class="pulseb" x="1" y="1" width="498" height="42" rx="21" fill="none" stroke="#34d399" stroke-width="1.5"/>
+<circle class="ring" cx="26" cy="22" r="5" fill="none" stroke="#34d399" stroke-width="1.5"/>
+<circle cx="26" cy="22" r="5" fill="#34d399"/>
+<text x="46" y="27" font-size="13" font-weight="700" fill="#34d399" textLength="98.4" lengthAdjust="spacing">OPEN TO WORK</text>
+<line x1="158" y1="12" x2="158" y2="32" stroke="#30363d"/>
+<text x="174" y="27" font-size="13" fill="#c9d1d9" textLength="281.7" lengthAdjust="spacing">Java Backend Internships &amp; Full-time</text>
+</svg>

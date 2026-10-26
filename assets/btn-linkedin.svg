@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="46" viewBox="0 0 176 46" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}
+.sw{animation:sw 3.8s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(0)}65%,100%{transform:translateX(436px)}}
+.glow{animation:gl 2.6s ease-in-out infinite}
+@keyframes gl{0%,100%{opacity:.0}50%{opacity:.0}}
+</style>
+<defs><clipPath id="p"><rect width="176" height="46" rx="23"/></clipPath>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect class="glow" x="0" y="0" width="176" height="46" rx="23" fill="#34d399"/>
+<rect width="176" height="46" rx="23" fill="#34d399"/>
+<g clip-path="url(#p)"><g transform="skewX(-20)"><rect class="sw" x="-120" y="0" width="70" height="46" fill="url(#sg)"/></g></g>
+<g transform="translate(20 11)"><rect width="24" height="24" rx="5" fill="#0d1117"/><text x="12" y="17.5" text-anchor="middle" font-size="14" font-weight="800" fill="#34d399">in</text></g>
+<text x="86.6" y="28" font-size="14" font-weight="800" fill="#0d1117" textLength="67.4" lengthAdjust="spacing">LinkedIn</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="24" viewBox="0 0 700 24" role="img" aria-label="Section divider">
+<title>Section divider</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}
+.run{animation:run 4.5s ease-in-out infinite}
+@keyframes run{0%{transform:translateX(0)}100%{transform:translateX(860px)}}
+.dia{transform-box:fill-box;transform-origin:center;animation:dia 3s ease-in-out infinite}
+@keyframes dia{0%,100%{stroke-opacity:.5}50%{stroke-opacity:1}}
+</style>
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#30363d" stop-opacity="0"/><stop offset=".2" stop-color="#30363d"/><stop offset=".8" stop-color="#30363d"/><stop offset="1" stop-color="#30363d" stop-opacity="0"/></linearGradient>
+<linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="11" width="700" height="2" fill="url(#ln)"/>
+<rect class="run" x="-160" y="10.5" width="160" height="3" rx="1.5" fill="url(#gl)"/>
+<g transform="translate(350 12)"><rect class="dia" x="-5" y="-5" width="10" height="10" rx="1.5" transform="rotate(45)" fill="#0d1117" stroke="#34d399" stroke-width="1.5"/></g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="342" viewBox="0 0 700 342" role="img" aria-label="MoneyManager-Backend: Spring Boot REST API for a personal finance tracker: JWT auth, Google Sign-In, email activation, income/expense/category management, dashboard data, Excel reports and scheduled email reminders. Language: Java. Framework: Spring Boot. Security: JWT, Google Sign-In. Database: PostgreSQL, Spring Data JPA. Reports: Apache POI (Excel). Email: Spring Mail">
+<title>MoneyManager-Backend: Spring Boot REST API for a personal finance tracker: JWT auth, Google Sign-In, email activation, income/expense/category management, dashboard data, Excel reports and scheduled email reminders. Language: Java. Framework: Spring Boot. Security: JWT, Google Sign-In. Database: PostgreSQL, Spring Data JPA. Reports: Apache POI (Excel). Email: Spring Mail</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}
+.tb,.tb2{animation:tbmove 8s linear infinite}
+@keyframes tbmove{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+.ln{opacity:0;animation:fi .8s ease forwards}
+@keyframes fi{to{opacity:1}}
+.row{opacity:0;animation:rw .7s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes rw{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+.hl{animation:hl 7.800000000000001s steps(6) infinite}
+@keyframes hl{from{transform:translateY(0)}to{transform:translateY(168px)}}
+</style>
+<defs></defs>
+<rect x="0.5" y="0.5" width="699" height="341" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10.5 a10 10 0 0 1 10 -10 H689.5 a10 10 0 0 1 10 10 V36 H0.5 Z" fill="#161b22"/><line x1="0.5" y1="36.5" x2="699.5" y2="36.5" stroke="#30363d"/><circle cx="22" cy="18.5" r="5.5" fill="#ff5f56"/><circle cx="42" cy="18.5" r="5.5" fill="#ffbd2e"/><circle cx="62" cy="18.5" r="5.5" fill="#27c93f"/><text x="350.0" y="22" text-anchor="middle" font-size="12" fill="#8b949e">MoneyManager-Backend</text>
+<text class="ln" style="animation-delay:0.30s" x="24" y="66" font-size="13" fill="#c9d1d9" textLength="610.4" lengthAdjust="spacing">Spring Boot REST API for a personal finance tracker: JWT auth, Google Sign-In,</text>
+<text class="ln" style="animation-delay:0.55s" x="24" y="87" font-size="13" fill="#c9d1d9" textLength="586.9" lengthAdjust="spacing">email activation, income/expense/category management, dashboard data, Excel</text>
+<text class="ln" style="animation-delay:0.80s" x="24" y="108" font-size="13" fill="#c9d1d9" textLength="297.4" lengthAdjust="spacing">reports and scheduled email reminders.</text>
+<text x="24" y="138" font-size="11" fill="#8b949e" letter-spacing="1.5">LAYER</text><text x="200" y="138" font-size="11" fill="#8b949e" letter-spacing="1.5">TECHNOLOGY</text>
+<line x1="24" y1="146" x2="676" y2="146" stroke="#30363d"/>
+<rect class="hl" x="14" y="152" width="672" height="24" rx="5" fill="#34d399" opacity=".09"/>
+<g class="row" style="animation-delay:0.90s"><text x="24" y="170" font-size="13" fill="#8b949e" textLength="62.6" lengthAdjust="spacing">Language</text><text x="200" y="170" font-size="13" fill="#34d399" textLength="31.3" lengthAdjust="spacing">Java</text></g>
+<line x1="24" y1="179" x2="676" y2="179" stroke="#21262d"/>
+<g class="row" style="animation-delay:1.05s"><text x="24" y="198" font-size="13" fill="#8b949e" textLength="70.4" lengthAdjust="spacing">Framework</text><text x="200" y="198" font-size="13" fill="#34d399" textLength="86.1" lengthAdjust="spacing">Spring Boot</text></g>
+<line x1="24" y1="207" x2="676" y2="207" stroke="#21262d"/>
+<g class="row" style="animation-delay:1.20s"><text x="24" y="226" font-size="13" fill="#8b949e" textLength="62.6" lengthAdjust="spacing">Security</text><text x="200" y="226" font-size="13" fill="#34d399" textLength="148.7" lengthAdjust="spacing">JWT, Google Sign-In</text></g>
+<line x1="24" y1="235" x2="676" y2="235" stroke="#21262d"/>
+<g class="row" style="animation-delay:1.35s"><text x="24" y="254" font-size="13" fill="#8b949e" textLength="62.6" lengthAdjust="spacing">Database</text><text x="200" y="254" font-size="13" fill="#34d399" textLength="211.3" lengthAdjust="spacing">PostgreSQL, Spring Data JPA</text></g>
+<line x1="24" y1="263" x2="676" y2="263" stroke="#21262d"/>
+<g class="row" style="animation-delay:1.50s"><text x="24" y="282" font-size="13" fill="#8b949e" textLength="54.8" lengthAdjust="spacing">Reports</text><text x="200" y="282" font-size="13" fill="#34d399" textLength="140.9" lengthAdjust="spacing">Apache POI (Excel)</text></g>
+<line x1="24" y1="291" x2="676" y2="291" stroke="#21262d"/>
+<g class="row" style="animation-delay:1.65s"><text x="24" y="310" font-size="13" fill="#8b949e" textLength="39.1" lengthAdjust="spacing">Email</text><text x="200" y="310" font-size="13" fill="#34d399" textLength="86.1" lengthAdjust="spacing">Spring Mail</text></g>
+<rect class="tb2" x="1" y="1" width="698" height="340" rx="10" fill="none" stroke="#34d399" stroke-width="5" pathLength="1000" stroke-dasharray="110 890" opacity=".18"/><rect class="tb" x="1" y="1" width="698" height="340" rx="10" fill="none" stroke="#34d399" stroke-width="1.6" pathLength="1000" stroke-dasharray="110 890"/>
+</svg>
