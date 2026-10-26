@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">Who I Am</title>
+  <desc id="desc">Profile card for Soumadeep Dey, Java Backend Developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="280" rx="18" fill="url(#bg)" stroke="#34d399" stroke-width="2"/>
+  <text x="40" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#34d399">Who I Am</text>
+  <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e6edf3">Soumadeep Dey · Java Backend Developer</text>
+  <text x="40" y="154" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9fb0c0">Spring Boot · Spring Security · Hibernate · PostgreSQL</text>
+  <text x="40" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9fb0c0">Building backend projects at NSEC, Kolkata</text>
+  <text x="40" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9fb0c0">Open to Java backend internships and full-time roles</text>
+</svg>
