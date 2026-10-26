@@ -1,16 +1,306 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
-  <title id="title">Who I Am</title>
-  <desc id="desc">Profile card for Soumadeep Dey, Java Backend Developer.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="280" rx="18" fill="url(#bg)" stroke="#34d399" stroke-width="2"/>
-  <text x="40" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#34d399">Who I Am</text>
-  <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e6edf3">Soumadeep Dey · Java Backend Developer</text>
-  <text x="40" y="154" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9fb0c0">Spring Boot · Spring Security · Hibernate · PostgreSQL</text>
-  <text x="40" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9fb0c0">Building backend projects at NSEC, Kolkata</text>
-  <text x="40" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9fb0c0">Open to Java backend internships and full-time roles</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="658" viewBox="0 0 700 658" role="img" aria-label="Soumadeep.java: Java Backend Developer, Java, Spring Boot, Spring Security, Hibernate, PostgreSQL. Launched MoneyManager-Backend and CineStage-Backend. Third-year CS student at NSEC, Kolkata. Open to Java backend internships and full-time backend roles." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4YzBkNDY1YS0zZGJlLTQxM2ItYTlhZi1lMGIzY2E0YjkyZjUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCfdmPL5QJbfjcm2ULuUNeoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3MDQ1NThhMy1iZWE3LTRlOWEtOGQxYS1iMzVjMTI1NjlhNjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNovLGdXliSerWZ/5PNjCpEmAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggC9l4T6NgybEjmKxITk/XMLCKr4hI1BLZ53AXvKd3dCakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLp56ikNAA4iG66/Am+3+ZYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIOD1EewkGWNwuApAoRfzRWuAgbfP7BYxslAhvqI8PsmyZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGsZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjhjMGQ0NjVhLTNkYmUtNDEzYi1hOWFmLWUwYjNjYTRiOTJmNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA1YjZhOTFlLWEzNGItNDRiMi1hZTgxLTM3NDVkOTI2NTY0ZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAL2XhPo2DJsSOYrEhOT9cwsIqviEjUEtnncBe8p3d0JqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggjs3vYIIgSTD15Yzx30bam4grAXXEh0VM2wIWGV8Mm9eiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGD4Q3cGX8naGGTiXsfGkwkBI9UOERNcla8CvKz/cIch0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQM5/s8wGV/kZ8pAhRgL1nDOJuyTbQhmQpsqltUkf+JAz97m3S+h836IXYOBbDbmFzOdZNhoIj6wb6/KFbLOuZkA=</c2pa:manifest></metadata>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; white-space: pre; }
+  .title { font-size: 12px; fill: #8b949e; }
+  .cover { fill: #0d1117; }
+  .cursor { fill: #34d399; opacity: 0; }
+  .c0 { animation: a0 18.08s infinite; }
+  .k0 { animation: b0 18.08s infinite; }
+  @keyframes a0 {
+    0%, 3.319% { transform: translateX(0); animation-timing-function: steps(22); }
+    5.267%, 99.8% { transform: translateX(209.46px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b0 {
+    0%, 3.319% { transform: translateX(0); opacity: 0; }
+    3.32% { transform: translateX(0); opacity: 1; animation-timing-function: steps(22); }
+    5.267% { transform: translateX(185.46px); opacity: 1; }
+    5.268000000000001%, 100% { transform: translateX(185.46px); opacity: 0; }
+  }  .c2 { animation: a2 18.08s infinite; }
+  .k2 { animation: b2 18.08s infinite; }
+  @keyframes a2 {
+    0%, 6.041% { transform: translateX(0); animation-timing-function: steps(24); }
+    8.166%, 99.8% { transform: translateX(226.32px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b2 {
+    0%, 6.041% { transform: translateX(0); opacity: 0; }
+    6.042000000000001% { transform: translateX(0); opacity: 1; animation-timing-function: steps(24); }
+    8.166% { transform: translateX(202.32px); opacity: 1; }
+    8.167%, 100% { transform: translateX(202.32px); opacity: 0; }
+  }  .c4 { animation: a4 18.08s infinite; }
+  .k4 { animation: b4 18.08s infinite; }
+  @keyframes a4 {
+    0%, 8.94% { transform: translateX(0); animation-timing-function: steps(44); }
+    12.835%, 99.8% { transform: translateX(394.92px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b4 {
+    0%, 8.94% { transform: translateX(0); opacity: 0; }
+    8.940999999999999% { transform: translateX(0); opacity: 1; animation-timing-function: steps(44); }
+    12.835% { transform: translateX(370.92px); opacity: 1; }
+    12.836%, 100% { transform: translateX(370.92px); opacity: 0; }
+  }  .c6 { animation: a6 18.08s infinite; }
+  .k6 { animation: b6 18.08s infinite; }
+  @keyframes a6 {
+    0%, 13.609% { transform: translateX(0); animation-timing-function: steps(33); }
+    16.53%, 99.8% { transform: translateX(302.19px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b6 {
+    0%, 13.609% { transform: translateX(0); opacity: 0; }
+    13.61% { transform: translateX(0); opacity: 1; animation-timing-function: steps(33); }
+    16.53% { transform: translateX(278.19px); opacity: 1; }
+    16.531000000000002%, 100% { transform: translateX(278.19px); opacity: 0; }
+  }  .c7 { animation: a7 18.08s infinite; }
+  .k7 { animation: b7 18.08s infinite; }
+  @keyframes a7 {
+    0%, 16.973% { transform: translateX(0); animation-timing-function: steps(49); }
+    21.31%, 99.8% { transform: translateX(437.07px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b7 {
+    0%, 16.973% { transform: translateX(0); opacity: 0; }
+    16.974% { transform: translateX(0); opacity: 1; animation-timing-function: steps(49); }
+    21.31% { transform: translateX(413.07px); opacity: 1; }
+    21.311%, 100% { transform: translateX(413.07px); opacity: 0; }
+  }  .c8 { animation: a8 18.08s infinite; }
+  .k8 { animation: b8 18.08s infinite; }
+  @keyframes a8 {
+    0%, 21.753% { transform: translateX(0); animation-timing-function: steps(33); }
+    24.674%, 99.8% { transform: translateX(302.19px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b8 {
+    0%, 21.753% { transform: translateX(0); opacity: 0; }
+    21.754% { transform: translateX(0); opacity: 1; animation-timing-function: steps(33); }
+    24.674% { transform: translateX(278.19px); opacity: 1; }
+    24.675%, 100% { transform: translateX(278.19px); opacity: 0; }
+  }  .c9 { animation: a9 18.08s infinite; }
+  .k9 { animation: b9 18.08s infinite; }
+  @keyframes a9 {
+    0%, 25.116% { transform: translateX(0); animation-timing-function: steps(6); }
+    26.223%, 99.8% { transform: translateX(74.58px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b9 {
+    0%, 25.116% { transform: translateX(0); opacity: 0; }
+    25.117% { transform: translateX(0); opacity: 1; animation-timing-function: steps(6); }
+    26.223% { transform: translateX(50.58px); opacity: 1; }
+    26.224%, 100% { transform: translateX(50.58px); opacity: 0; }
+  }  .c11 { animation: a11 18.08s infinite; }
+  .k11 { animation: b11 18.08s infinite; }
+  @keyframes a11 {
+    0%, 26.997% { transform: translateX(0); animation-timing-function: steps(44); }
+    30.892%, 99.8% { transform: translateX(394.92px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b11 {
+    0%, 26.997% { transform: translateX(0); opacity: 0; }
+    26.998% { transform: translateX(0); opacity: 1; animation-timing-function: steps(44); }
+    30.892% { transform: translateX(370.92px); opacity: 1; }
+    30.893%, 100% { transform: translateX(370.92px); opacity: 0; }
+  }  .c12 { animation: a12 18.08s infinite; }
+  .k12 { animation: b12 18.08s infinite; }
+  @keyframes a12 {
+    0%, 31.334% { transform: translateX(0); animation-timing-function: steps(51); }
+    35.849%, 99.8% { transform: translateX(453.93px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b12 {
+    0%, 31.334% { transform: translateX(0); opacity: 0; }
+    31.335% { transform: translateX(0); opacity: 1; animation-timing-function: steps(51); }
+    35.849% { transform: translateX(429.93px); opacity: 1; }
+    35.849999999999994%, 100% { transform: translateX(429.93px); opacity: 0; }
+  }  .c13 { animation: a13 18.08s infinite; }
+  .k13 { animation: b13 18.08s infinite; }
+  @keyframes a13 {
+    0%, 36.291% { transform: translateX(0); animation-timing-function: steps(6); }
+    37.398%, 99.8% { transform: translateX(74.58px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b13 {
+    0%, 36.291% { transform: translateX(0); opacity: 0; }
+    36.291999999999994% { transform: translateX(0); opacity: 1; animation-timing-function: steps(6); }
+    37.398% { transform: translateX(50.58px); opacity: 1; }
+    37.399%, 100% { transform: translateX(50.58px); opacity: 0; }
+  }  .c15 { animation: a15 18.08s infinite; }
+  .k15 { animation: b15 18.08s infinite; }
+  @keyframes a15 {
+    0%, 38.172% { transform: translateX(0); animation-timing-function: steps(42); }
+    41.89%, 99.8% { transform: translateX(378.06px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b15 {
+    0%, 38.172% { transform: translateX(0); opacity: 0; }
+    38.172999999999995% { transform: translateX(0); opacity: 1; animation-timing-function: steps(42); }
+    41.89% { transform: translateX(354.06px); opacity: 1; }
+    41.891%, 100% { transform: translateX(354.06px); opacity: 0; }
+  }  .c16 { animation: a16 18.08s infinite; }
+  .k16 { animation: b16 18.08s infinite; }
+  @keyframes a16 {
+    0%, 42.332% { transform: translateX(0); animation-timing-function: steps(64); }
+    47.997%, 99.8% { transform: translateX(563.52px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b16 {
+    0%, 42.332% { transform: translateX(0); opacity: 0; }
+    42.333% { transform: translateX(0); opacity: 1; animation-timing-function: steps(64); }
+    47.997% { transform: translateX(539.52px); opacity: 1; }
+    47.998%, 100% { transform: translateX(539.52px); opacity: 0; }
+  }  .c17 { animation: a17 18.08s infinite; }
+  .k17 { animation: b17 18.08s infinite; }
+  @keyframes a17 {
+    0%, 48.44% { transform: translateX(0); animation-timing-function: steps(6); }
+    49.546%, 99.8% { transform: translateX(74.58px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b17 {
+    0%, 48.44% { transform: translateX(0); opacity: 0; }
+    48.440999999999995% { transform: translateX(0); opacity: 1; animation-timing-function: steps(6); }
+    49.546% { transform: translateX(50.58px); opacity: 1; }
+    49.547%, 100% { transform: translateX(50.58px); opacity: 0; }
+  }  .c19 { animation: a19 18.08s infinite; }
+  .k19 { animation: b19 18.08s infinite; }
+  @keyframes a19 {
+    0%, 50.321% { transform: translateX(0); animation-timing-function: steps(19); }
+    52.003%, 99.8% { transform: translateX(184.17px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b19 {
+    0%, 50.321% { transform: translateX(0); opacity: 0; }
+    50.321999999999996% { transform: translateX(0); opacity: 1; animation-timing-function: steps(19); }
+    52.003% { transform: translateX(160.17px); opacity: 1; }
+    52.004%, 100% { transform: translateX(160.17px); opacity: 0; }
+  }  .c20 { animation: a20 18.08s infinite; }
+  .k20 { animation: b20 18.08s infinite; }
+  @keyframes a20 {
+    0%, 52.445% { transform: translateX(0); animation-timing-function: steps(76); }
+    59.172%, 99.8% { transform: translateX(664.68px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b20 {
+    0%, 52.445% { transform: translateX(0); opacity: 0; }
+    52.446% { transform: translateX(0); opacity: 1; animation-timing-function: steps(76); }
+    59.172% { transform: translateX(640.68px); opacity: 1; }
+    59.172999999999995%, 100% { transform: translateX(640.68px); opacity: 0; }
+  }  .c22 { animation: a22 18.08s infinite; }
+  .k22 { animation: b22 18.08s infinite; }
+  @keyframes a22 {
+    0%, 59.947% { transform: translateX(0); animation-timing-function: steps(34); }
+    62.956%, 99.8% { transform: translateX(310.62px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b22 {
+    0%, 59.947% { transform: translateX(0); opacity: 0; }
+    59.948% { transform: translateX(0); opacity: 1; animation-timing-function: steps(34); }
+    62.956% { transform: translateX(286.62px); opacity: 1; }
+    62.957%, 100% { transform: translateX(286.62px); opacity: 0; }
+  }  .c23 { animation: a23 18.08s infinite; }
+  .k23 { animation: b23 18.08s infinite; }
+  @keyframes a23 {
+    0%, 63.399% { transform: translateX(0); animation-timing-function: steps(61); }
+    68.798%, 99.8% { transform: translateX(538.23px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b23 {
+    0%, 63.399% { transform: translateX(0); opacity: 0; }
+    63.4% { transform: translateX(0); opacity: 1; animation-timing-function: steps(61); }
+    68.798% { transform: translateX(514.23px); opacity: 1; }
+    68.799%, 100% { transform: translateX(514.23px); opacity: 0; }
+  }  .c24 { animation: a24 18.08s infinite; }
+  .k24 { animation: b24 18.08s infinite; }
+  @keyframes a24 {
+    0%, 69.241% { transform: translateX(0); animation-timing-function: steps(6); }
+    70.347%, 99.8% { transform: translateX(74.58px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b24 {
+    0%, 69.241% { transform: translateX(0); opacity: 0; }
+    69.242% { transform: translateX(0); opacity: 1; animation-timing-function: steps(6); }
+    70.347% { transform: translateX(50.58px); opacity: 1; }
+    70.348%, 100% { transform: translateX(50.58px); opacity: 0; }
+  }  .c25 { animation: a25 18.08s infinite; }
+  .k25 { animation: b25 18.08s infinite; }
+  @keyframes a25 {
+    0%, 70.79% { transform: translateX(0); animation-timing-function: steps(1); }
+    71.896%, 99.8% { transform: translateX(32.43px); animation-timing-function: steps(1); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes b25 {
+    0%, 70.79% { transform: translateX(0); opacity: 0; }
+    70.79100000000001% { transform: translateX(0); opacity: 1; animation-timing-function: steps(1); }
+    71.896% { transform: translateX(8.43px); opacity: 1; }
+    71.897%, 100% { transform: translateX(8.43px); opacity: 0; }
+  }
+</style>
+<rect x="0.5" y="0.5" width="699" height="657" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10.5 a10 10 0 0 1 10 -10 H689.5 a10 10 0 0 1 10 10 V36 H0.5 Z" fill="#161b22"/>
+<line x1="0.5" y1="36.5" x2="699.5" y2="36.5" stroke="#30363d"/>
+<circle cx="22" cy="18.5" r="5.5" fill="#ff5f56"/><circle cx="42" cy="18.5" r="5.5" fill="#ffbd2e"/><circle cx="62" cy="18.5" r="5.5" fill="#27c93f"/>
+<text class="title" x="350.0" y="22" text-anchor="middle">Soumadeep.java</text>
+<text x="26" y="62" xml:space="preserve"><tspan fill="#ff7b72">import</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">java</tspan><tspan fill="#8b949e">.</tspan><tspan fill="#c9d1d9">util</tspan><tspan fill="#8b949e">.</tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="84" xml:space="preserve"></text>
+<text x="26" y="106" xml:space="preserve"><tspan fill="#ff7b72">public</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#ff7b72">class</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#e3b341">Soumadeep</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">{</tspan></text>
+<text x="26" y="128" xml:space="preserve"></text>
+<text x="26" y="150" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e3b341">String</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">title</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">=</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#34d399">"Java Backend Developer"</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="172" xml:space="preserve"></text>
+<text x="26" y="194" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">&lt;</tspan><tspan fill="#e3b341">String</tspan><tspan fill="#8b949e">&gt;</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">stack</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">=</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">.</tspan><tspan fill="#d2a8ff">of</tspan><tspan fill="#8b949e">(</tspan></text>
+<text x="26" y="216" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#34d399">"Java"</tspan><tspan fill="#8b949e">,</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#34d399">"Spring Boot"</tspan><tspan fill="#8b949e">,</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#34d399">"Spring Security"</tspan><tspan fill="#8b949e">,</tspan></text>
+<text x="26" y="238" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#34d399">"Hibernate"</tspan><tspan fill="#8b949e">,</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#34d399">"PostgreSQL"</tspan></text>
+<text x="26" y="260" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#8b949e">)</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="282" xml:space="preserve"></text>
+<text x="26" y="304" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">&lt;</tspan><tspan fill="#e3b341">String</tspan><tspan fill="#8b949e">&gt;</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">launchedProjects</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">=</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">.</tspan><tspan fill="#d2a8ff">of</tspan><tspan fill="#8b949e">(</tspan></text>
+<text x="26" y="326" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#34d399">"MoneyManager-Backend"</tspan><tspan fill="#8b949e">,</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#34d399">"CineStage-Backend"</tspan></text>
+<text x="26" y="348" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#8b949e">)</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="370" xml:space="preserve"></text>
+<text x="26" y="392" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">&lt;</tspan><tspan fill="#e3b341">String</tspan><tspan fill="#8b949e">&gt;</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">certifications</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">=</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">.</tspan><tspan fill="#d2a8ff">of</tspan><tspan fill="#8b949e">(</tspan></text>
+<text x="26" y="414" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#34d399">"Java Spring Framework, Spring Boot, Spring AI - Gen AI"</tspan></text>
+<text x="26" y="436" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#8b949e">)</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="458" xml:space="preserve"></text>
+<text x="26" y="480" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e3b341">String</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">status</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">=</tspan></text>
+<text x="26" y="502" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#34d399">"Third-year CS student at NSEC, Kolkata, building backend projects"</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="524" xml:space="preserve"></text>
+<text x="26" y="546" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">&lt;</tspan><tspan fill="#e3b341">String</tspan><tspan fill="#8b949e">&gt;</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">openTo</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#8b949e">=</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#e3b341">List</tspan><tspan fill="#8b949e">.</tspan><tspan fill="#d2a8ff">of</tspan><tspan fill="#8b949e">(</tspan></text>
+<text x="26" y="568" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#34d399">"Java Backend Internships"</tspan><tspan fill="#8b949e">,</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#34d399">"Full-time Backend roles"</tspan></text>
+<text x="26" y="590" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#8b949e">)</tspan><tspan fill="#8b949e">;</tspan></text>
+<text x="26" y="612" xml:space="preserve"><tspan fill="#8b949e">}</tspan></text>
+<rect class="cover c0" x="26" y="46" width="209.46" height="22"/>
+<rect class="cursor k0" x="26" y="48" width="8" height="17"/>
+<rect class="cover c2" x="26" y="90" width="226.32" height="22"/>
+<rect class="cursor k2" x="26" y="92" width="8" height="17"/>
+<rect class="cover c4" x="26" y="134" width="394.92" height="22"/>
+<rect class="cursor k4" x="26" y="136" width="8" height="17"/>
+<rect class="cover c6" x="26" y="178" width="302.19" height="22"/>
+<rect class="cursor k6" x="26" y="180" width="8" height="17"/>
+<rect class="cover c7" x="26" y="200" width="437.07" height="22"/>
+<rect class="cursor k7" x="26" y="202" width="8" height="17"/>
+<rect class="cover c8" x="26" y="222" width="302.19" height="22"/>
+<rect class="cursor k8" x="26" y="224" width="8" height="17"/>
+<rect class="cover c9" x="26" y="244" width="74.58" height="22"/>
+<rect class="cursor k9" x="26" y="246" width="8" height="17"/>
+<rect class="cover c11" x="26" y="288" width="394.92" height="22"/>
+<rect class="cursor k11" x="26" y="290" width="8" height="17"/>
+<rect class="cover c12" x="26" y="310" width="453.93" height="22"/>
+<rect class="cursor k12" x="26" y="312" width="8" height="17"/>
+<rect class="cover c13" x="26" y="332" width="74.58" height="22"/>
+<rect class="cursor k13" x="26" y="334" width="8" height="17"/>
+<rect class="cover c15" x="26" y="376" width="378.06" height="22"/>
+<rect class="cursor k15" x="26" y="378" width="8" height="17"/>
+<rect class="cover c16" x="26" y="398" width="563.52" height="22"/>
+<rect class="cursor k16" x="26" y="400" width="8" height="17"/>
+<rect class="cover c17" x="26" y="420" width="74.58" height="22"/>
+<rect class="cursor k17" x="26" y="422" width="8" height="17"/>
+<rect class="cover c19" x="26" y="464" width="184.17" height="22"/>
+<rect class="cursor k19" x="26" y="466" width="8" height="17"/>
+<rect class="cover c20" x="26" y="486" width="664.68" height="22"/>
+<rect class="cursor k20" x="26" y="488" width="8" height="17"/>
+<rect class="cover c22" x="26" y="530" width="310.62" height="22"/>
+<rect class="cursor k22" x="26" y="532" width="8" height="17"/>
+<rect class="cover c23" x="26" y="552" width="538.23" height="22"/>
+<rect class="cursor k23" x="26" y="554" width="8" height="17"/>
+<rect class="cover c24" x="26" y="574" width="74.58" height="22"/>
+<rect class="cursor k24" x="26" y="576" width="8" height="17"/>
+<rect class="cover c25" x="26" y="596" width="32.43" height="22"/>
+<rect class="cursor k25" x="26" y="598" width="8" height="17"/>
 </svg>
