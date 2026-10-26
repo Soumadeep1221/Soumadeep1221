@@ -26,7 +26,7 @@ const soumadeep = {
   title: "Java Backend Developer",
   stack: ["Java", "Spring Boot", "Spring Security", "Hibernate", "PostgreSQL"],
   launchedProjects: ["MoneyManager-Backend", "CineStage-Backend"],
-  certifications: ["Java Spring Framework, Spring Boot, Spring AI - Gen AI (Udemy, 55 hrs)"],
+  certifications: ["Java Spring Framework, Spring Boot, Spring AI - Gen AI"],
   status: "Third-year CS student at NSEC, Kolkata, building backend projects",
   openTo: ["Java Backend Internships", "Full-time Backend roles"],
 };
