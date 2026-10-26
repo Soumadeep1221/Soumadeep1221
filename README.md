@@ -21,16 +21,9 @@
 
 ## Who I Am
 
-```typescript
-const soumadeep = {
-  title: "Java Backend Developer",
-  stack: ["Java", "Spring Boot", "Spring Security", "Hibernate", "PostgreSQL"],
-  launchedProjects: ["MoneyManager-Backend", "CineStage-Backend"],
-  certifications: ["Java Spring Framework, Spring Boot, Spring AI - Gen AI"],
-  status: "Third-year CS student at NSEC, Kolkata, building backend projects",
-  openTo: ["Java Backend Internships", "Full-time Backend roles"],
-};
-```
+<p align="center">
+  <img src="assets/who-i-am.svg" alt="Soumadeep.java: Java Backend Developer. Java, Spring Boot, Spring Security, Hibernate, PostgreSQL. Launched MoneyManager-Backend and CineStage-Backend. Third-year CS student at NSEC, Kolkata. Open to Java backend internships and full-time backend roles." />
+</p>
 
 ---
 
