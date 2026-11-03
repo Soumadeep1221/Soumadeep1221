@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9'
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=34d399&text_color=c9d1d9'
           path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit cards
         run: |
