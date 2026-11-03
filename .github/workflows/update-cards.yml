@@ -19,7 +19,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9'
           path: assets/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
