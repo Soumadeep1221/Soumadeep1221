@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Soumadeep1221">
-  <img src="assets/banner.svg" width="700" alt="Soumadeep Dey. Java Backend Developer. Building REST APIs with Spring Boot. MoneyManager | CineStage. Open to Java Backend Internships." />
+  <img src="assets/banner.svg" width="700" alt="Soumadeep Dey. Java Backend Developer. Building REST APIs with Spring Boot. MoneyManager | SmartCart | CineStage. Open to Java Backend Internships." />
 </a>
 
 <br/><br/>
@@ -19,7 +19,7 @@
 
 <img src="assets/h-who.svg" width="700" alt="Who I Am" />
 
-<img src="assets/who-i-am.svg" width="700" alt="Soumadeep.java: Java Backend Developer. Java, Spring Boot, Spring Security, Hibernate, PostgreSQL. Launched MoneyManager-Backend and CineStage-Backend. Third-year CS student at NSEC, Kolkata. Open to Java backend internships and full-time backend roles." />
+<img src="assets/who-i-am.svg" width="700" alt="Soumadeep.java: Java Backend Developer. Java, Spring Boot, Spring Security, Hibernate, PostgreSQL. Launched MoneyManager-Backend, SmartCart-Backend and CineStage-Backend. Third-year CS student at NSEC, Kolkata. Open to Java backend internships and full-time backend roles." />
 
 <br/><br/>
 
@@ -35,7 +35,19 @@
 
 <br/>
 
-<a href="https://github.com/Soumadeep1221/MoneyManager-Backend"><img src="assets/btn-code-moneymanager.svg" alt="Code: MoneyManager-Backend" /></a>
+<a href="https://moneymanager-soumadeep1221.netlify.app"><img src="assets/btn-live-moneymanager.svg" alt="Live demo: MoneyManager" /></a>
+
+<br/><br/>
+
+<h3 align="center">SmartCart-Backend</h3>
+
+<a href="https://github.com/Soumadeep1221/SmartCart_Backend">
+  <img src="assets/card-smartcart.svg" width="700" alt="SmartCart-Backend: Spring Boot REST API for an AI-powered e-commerce store. Google Sign-In with JWT, a token-metered AI layer, AI-generated product descriptions and images, and a RAG chatbot on pgvector that keeps each customer's orders private. Language: Java. Framework: Spring Boot, Spring AI. Security: Spring Security, JWT, Google Sign-In. Database: PostgreSQL, pgvector, Spring Data JPA. AI: OpenAI chat, embeddings and image generation, RAG. Deployment: Docker, Render, Neon, Netlify." />
+</a>
+
+<br/>
+
+<a href="https://smartcart-soumadeep1221.netlify.app"><img src="assets/btn-live-smartcart.svg" alt="Live demo: SmartCart" /></a>
 
 <br/><br/>
 
@@ -47,7 +59,7 @@
 
 <br/>
 
-<a href="https://github.com/Soumadeep1221/CineStage-Backend"><img src="assets/btn-code-cinestage.svg" alt="Code: CineStage-Backend" /></a>
+<a href="https://cinestage-soumadeep1221.netlify.app"><img src="assets/btn-live-cinestage.svg" alt="Live demo: CineStage" /></a>
 
 <br/><br/>
 
@@ -63,8 +75,8 @@
 
 <img src="assets/h-stats.svg" width="700" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soumadeep1221&show_icons=true&hide_border=false&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&ring_color=34d399" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumadeep1221&layout=compact&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=34d399&text_color=c9d1d9" alt="Top languages" />
+<img height="180" src="assets/stats.svg" alt="GitHub stats" />
+<img height="180" src="assets/top-langs.svg" alt="Top languages" />
 
 <br/><br/>
 
