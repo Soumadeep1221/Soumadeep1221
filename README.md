@@ -30,7 +30,7 @@
 <h3 align="center">MoneyManager-Backend</h3>
 
 <a href="https://github.com/Soumadeep1221/MoneyManager-Backend">
-  <img src="assets/card-moneymanager.svg" width="700" alt="MoneyManager-Backend: Spring Boot REST API for a personal finance tracker: JWT auth, Google Sign-In, email activation, income/expense/category management, dashboard data, Excel reports and scheduled email reminders. Language: Java. Framework: Spring Boot. Security: JWT, Google Sign-In. Database: PostgreSQL, Spring Data JPA. Reports: Apache POI (Excel). Email: Spring Mail." />
+  <img src="assets/card-moneymanager.svg" width="700" alt="MoneyManager-Backend: Spring Boot REST API for a personal finance tracker: JWT auth, Google Sign-In, email activation, income/expense/category management, dashboard data, Excel reports and scheduled email reminders. Language: Java. Framework: Spring Boot. Security: JWT, Google Sign-In. Database: PostgreSQL, Spring Data JPA. Reports: Apache POI (Excel). Email: Spring Mail. Deployment: Render, Neon, Netlify." />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@
 <h3 align="center">SmartCart-Backend</h3>
 
 <a href="https://github.com/Soumadeep1221/SmartCart_Backend">
-  <img src="assets/card-smartcart.svg" width="700" alt="SmartCart-Backend: Spring Boot REST API for an AI-powered e-commerce store. Google Sign-In with JWT, a token-metered AI layer, AI-generated product descriptions and images, and a RAG chatbot on pgvector that keeps each customer's orders private. Language: Java. Framework: Spring Boot, Spring AI. Security: Spring Security, JWT, Google Sign-In. Database: PostgreSQL, pgvector, Spring Data JPA. AI: OpenAI chat, embeddings and image generation, RAG. Deployment: Docker, Render, Neon, Netlify." />
+  <img src="assets/card-smartcart.svg" width="700" alt="SmartCart-Backend: Spring Boot REST API for an AI-powered e-commerce store. Google Sign-In with JWT, a token-metered AI layer, AI-generated product descriptions and images, and a RAG chatbot on pgvector that keeps each customer's orders private. Language: Java. Framework: Spring Boot, Spring AI. Security: JWT, Google Sign-In. Database: pgvector, Spring Data JPA. AI: OpenAI chat, description and image generation, RAG. Deployment: Render, Neon, Netlify." />
 </a>
 
 <br/>
@@ -54,7 +54,7 @@
 <h3 align="center">CineStage-Backend</h3>
 
 <a href="https://github.com/Soumadeep1221/CineStage-Backend">
-  <img src="assets/card-cinestage.svg" width="700" alt="CineStage-Backend: Spring Boot REST API for CineStage, a cinema ticket booking platform. Handles cities, theatres, screens, seats, shows, users, and bookings, with live poster fetching via the TMDB API. Language: Java. Framework: Spring Boot (REST API). Security: Spring Security, JWT. Database: PostgreSQL. External API: TMDB API (live posters)." />
+  <img src="assets/card-cinestage.svg" width="700" alt="CineStage-Backend: Spring Boot REST API for CineStage, a cinema ticket booking platform. Handles cities, theatres, screens, seats, shows, users, and bookings, with live poster fetching via the TMDB API. Language: Java. Framework: Spring Boot (REST API). Security: Spring Security, JWT. Database: PostgreSQL. External API: TMDB API (live posters). Deployment: Render, Neon, Netlify." />
 </a>
 
 <br/>
